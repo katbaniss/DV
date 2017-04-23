@@ -1,2 +1,2 @@
-# http://DV.github.io
+# http://DV
 KATHRIN B. GECK

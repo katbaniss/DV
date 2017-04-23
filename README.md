@@ -1,5 +1,2 @@
-cd DV.github.io
-echo "Hello World" > index.html
-git add --all
-git commit -m "Initial commit"
-git push -u origin master
+# http://DV.github.io
+KATHRIN B. GECK

@@ -1,2 +1,2 @@
-cd http://DV.github.io
-echo "DV" > index.html
+# http://DV.github.io
+

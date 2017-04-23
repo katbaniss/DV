@@ -1,4 +1,4 @@
-echo "# DV" >> README.md
+echo "# DV" >> index.html
 git init
 git add README.md
 git commit -m "first commit"
